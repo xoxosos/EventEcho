@@ -7,7 +7,7 @@
 import { onHide, onLaunch, onShow } from '@dcloudio/uni-app'
 
 onLaunch(() => {
-  console.log('App Launch')
+  console.log('App Launch1')
 })
 onShow(() => {
   console.log('App Show')
