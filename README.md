@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="./src/static/logo.png" alt="EventEcho Logo" width="200">
+    <img src="./src/static/images/logo.png" alt="EventEcho Logo" width="200">
 </div>
 # EventEcho(恋心日记) - 珍爱每个恋爱瞬间的纪念日应用
 
