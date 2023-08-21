@@ -1,4 +1,6 @@
-
+<div align="center">
+    <img src="your_icon_url_here" alt="EventEcho Logo" width="200">
+</div>
 # EventEcho(恋心日记) - 珍爱每个恋爱瞬间的纪念日应用
 
 **EventEcho** 是一款专注于记录和庆祝恋爱纪念日的应用，让您和您的爱人能够共同追溯、纪念并庆祝您的美好恋爱历程。无论是初次邂逅、重要时刻还是一起度过的每个日子，EventEcho 都能帮助您捕捉这些珍贵的时刻，并将它们转化为深刻的回忆。
